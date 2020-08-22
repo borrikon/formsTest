@@ -7,8 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/borrikon/testForBank.git"
   },
   "keywords": [
     "money",
@@ -19,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/borrikon/testForBank/issues"
   },
-  "homepage": "https://github.com/borrikon/testForBank",
+  "homepage": "",
   "devDependencies": {
     "browser-sync": "^2.26.12",
     "del": "^5.1.0",
